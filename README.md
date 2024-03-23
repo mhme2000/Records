@@ -36,7 +36,7 @@ MS-Records em .NET 8. Projeto que compõe o serviço de ponto eletrônico desenv
 
 - Clone o projeto com: `git clone https://github.com/mhme2000/ms-records.git`
 - Acesse o projeto, e execute: `docker compose up --build -d`
-- Pronto! Agora seu projeto está rodando no endereço http://localhost:7003/swagger, é só se divertir!
+- Pronto! Agora seu projeto está rodando no endereço http://localhost:7002/swagger, é só se divertir!
 
 ---
 
